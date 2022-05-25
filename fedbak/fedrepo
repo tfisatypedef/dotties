@@ -1,0 +1,11 @@
+repo id                        repo name
+fedora                         Fedora 36 - x86_64
+fedora-cisco-openh264          Fedora 36 openh264 (From Cisco) - x86_64
+fedora-modular                 Fedora Modular 36 - x86_64
+google-chrome                  google-chrome
+rpmfusion-free                 RPM Fusion for Fedora 36 - Free
+rpmfusion-free-updates         RPM Fusion for Fedora 36 - Free - Updates
+rpmfusion-nonfree              RPM Fusion for Fedora 36 - Nonfree
+rpmfusion-nonfree-updates      RPM Fusion for Fedora 36 - Nonfree - Updates
+updates                        Fedora 36 - x86_64 - Updates
+updates-modular                Fedora Modular 36 - x86_64 - Updates
